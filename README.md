@@ -1,7 +1,6 @@
 - 👋 Hi, I’m zichunwu
 - 📫 Reach me: zichunwu21@gmail.com
--  I’m interested in Medical Sociology/Public Health.
--  I’m currently learning statistic analysis using R.
+-  I’m currently learning statistic analysis using R and machine learning using Python.
 
 <!---
 zichunwu21/zichunwu21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
